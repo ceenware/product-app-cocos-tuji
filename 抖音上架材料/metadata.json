@@ -1,0 +1,24 @@
+{
+  "platform": "douyin-mini-game",
+  "finalName": "勇者火线突围",
+  "softwareFullName": "勇者火线突围小游戏软件 V1.0",
+  "softwareShortName": "勇者火线突围",
+  "version": "V1.0",
+  "category": "动作竞技 / 射击",
+  "tag": "闯关",
+  "keywords": [
+    "勇者",
+    "射击",
+    "突围",
+    "闯关",
+    "动作"
+  ],
+  "intro": "操控勇者完成射击突围，挑战轻量闯关战斗。",
+  "detail": "《勇者火线突围》是一款休闲射击闯关小游戏。玩家操控角色在关卡中移动、射击、躲避敌人和障碍，并在限定目标下完成突围。项目基于 Cocos Creator 组件化开发，包含关卡、角色、敌人、道具、音频、存储和平台 SDK 适配等模块。",
+  "icon": "抖音上架材料/icon-600.png",
+  "status": "可准备提交",
+  "risk": "该项目已有软著材料草稿，需补充著作权人、完成日期、首次发表日期等法定信息。",
+  "appId": "",
+  "auditTicket": "",
+  "auditResult": ""
+}
